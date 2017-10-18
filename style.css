@@ -21,6 +21,7 @@ body {
       background: url(https://static.pexels.com/photos/325185/pexels-photo-325185.jpeg) no-repeat center center fixed;
       display: table;
       top: 0;
+     
       background-size: cover;
       opacity: .9;
 }
