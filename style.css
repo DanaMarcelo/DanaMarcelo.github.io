@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image: url (https://static.pexels.com/photos/325185/pexels-photo-325185.jpeg);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Dana's Term 4 Website</h1>
+<p>Welcome to my Website.</p>
+<p>Here are some random stuff.</p>
+
+</body>
+</html>
+
 /* constructor */
 html,
 body {
