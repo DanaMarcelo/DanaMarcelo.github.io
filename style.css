@@ -25,32 +25,3 @@ p {
 
 </body>
 </html>
-
-/* constructor */
-html,
-body {
-      width: 100%;
-      height: 100%;
-      margin: 0;
-      background-color:#f9f9f9;      
-}
-
-/* clearfix */
-.clearfix {
-      clear: both;
-      padding:2%;
-} 
-
-/* background */ 
-.home-bg {
-      width: 100%;
-      height: 100%;
-      margin: auto;
-      background: url(https://static.pexels.com/photos/325185/pexels-photo-325185.jpeg) no-repeat center center fixed;
-      display: table;
-      top: 0;
-     
-      background-size: cover;
-      opacity: .9;
-}
-      
