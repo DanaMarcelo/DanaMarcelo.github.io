@@ -1,4 +1,9 @@
 ul{
         list-style-type: none;
-        background-color: lightgrey;
+        background-color: lightgray;
 }          
+
+img.centre {
+        display: block;
+        text-align: center;
+}
