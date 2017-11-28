@@ -5,5 +5,5 @@ ul{
 
 img.centre {
         display: block;
-        text-align: center;
+        margin: auto;
 }
