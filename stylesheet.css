@@ -3,7 +3,7 @@ ul{
         background-color: lightgray;
 }          
 
-img.centre {
+class="centre" {
         display: block;
         margin: auto;
 }
